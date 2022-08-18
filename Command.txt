@@ -1,0 +1,39 @@
+git version
+
+git config --global user.name "username"
+
+git config -- global user.email "username@gmail.com
+
+git config --global --list
+
+notepad++
+
+notepad++.exe bash -profile
+
+git config --global core.editor "notepad++.exe -multiInst -nosession"
+
+git config --global -e
+
+git init GitDemo
+
+ls -al
+
+echo "Welcome to the version control">>welcome.txt
+
+ls -al
+
+cat welcome.txt
+
+git status
+
+git add welcome.txt
+
+git commit
+
+git status
+
+git remote add origin
+
+git remote set-url
+
+git push origin master
